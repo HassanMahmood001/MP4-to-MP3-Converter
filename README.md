@@ -29,4 +29,4 @@ This simple python script converts MP4 files to MP3.
 
 ## License
 
-Released under [Public](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
+Released under [GPL-3.0 license](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
