@@ -10,7 +10,7 @@ This simple python script converts MP4 files to MP3.
 
 ## Program Output
 
-![](https://github.com/HassanMahmood001/MP4-to-MP3-Converter/blob/main/Demo.mp4)
+![Demo](https://github.com/HassanMahmood001/MP4-to-MP3-Converter/blob/main/Demo.mp4)
 
 ## Authors
 
